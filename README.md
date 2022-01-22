@@ -6,4 +6,4 @@ Make AI accessiable to everyone
 ## 目录
 
 1. PyTorch 基础教程
-   - [张量]()
+   - [张量](https://github.com/YuanLiuuuuuu/AI_democracy/blob/master/PyTorch/PyTorch_%E5%BC%A0%E9%87%8F.ipynb)
